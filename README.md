@@ -1,4 +1,4 @@
-### Hi there 👋, my namae is Aldi
+### Hi there 👋, my namae is Aldi Ramdani
 
 <!--
 **Diealdi0401/Diealdi0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
